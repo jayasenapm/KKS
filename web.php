@@ -10,7 +10,7 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-JAYASENA palihakoon
+JAYASENA palihakoon mudi
 Route::get('/', function () {
     return view('welcome');
 });
